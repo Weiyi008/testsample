@@ -1,2 +1,2 @@
 # testsample
-test sample
+print ("Hello World")
